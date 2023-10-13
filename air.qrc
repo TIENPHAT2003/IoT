@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="airicon">
+    <file>airoff.png</file>
+    <file>airon.png</file>
+  </qresource>
+</RCC>

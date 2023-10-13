@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="fanicon">
+    <file>fanoff.png</file>
+    <file>fanon.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logoimage">
+    <file>t-rex.png</file>
+  </qresource>
+</RCC>
